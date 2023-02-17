@@ -1,2 +1,2 @@
 # testcopy
-Some cases copied from git
+just a try
